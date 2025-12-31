@@ -49,7 +49,7 @@ export default function Emergency() {
             </div>
 
             <div style={styles.alertInfo}>
-              <strong>⚠️ Avoid Block A - North Wing</strong>
+              <strong>⚠️ Avoid SAC</strong>
               <p>
                 Fire alarm triggered 3 minutes ago. Automated sprinkler system active.
               </p>
